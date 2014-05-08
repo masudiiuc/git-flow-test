@@ -1,0 +1,20 @@
+
+We decided to start with Git flow from today. Please follow the new STRICT process from now on:
+
+- We created new branch called develop from testing branch
+
+- Tomasz will connect this DEVELOP branch to TESTING environment (timedoctortest.com). The auto update will work in background and if the build is failed, we will get emails from it.
+
+- You need to create from now on NEW branch from develop branch and you have to create it with a CLIENT, not through the command line
+
+- Once you work on your own branch which is TDWEBOLD-XXX and do the changes, you need to create a pull request and merge your branch with develop branch again
+
+- ON MONDAY every week, we create new RELEASE branch from DEVELOP branch and push it on STAGING environment (timedoctorstaging.com)
+
+- Then everyone continue pushing their branches into DEVELOP branch as usual
+
+- Once we verify the new release on staging and everything works fine, then we merge it with MASTER branch, create new TAG and then we update production with the latest MASTER BRANCH version.
+
+
+ROLLBACKS:
+- if something fails, then we can rollback by a TAG from MASTER branch

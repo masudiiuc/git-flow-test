@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86da1610-fd04-4e16-9010-9d2b0fac2803" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Feature 4.txt" afterPath="$PROJECT_DIR$/Feature 4.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hello.txt" afterPath="$PROJECT_DIR$/Hello.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="git-flow.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,11 +34,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Hello.txt" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Hello.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hello.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="504" selection-start="4582" selection-end="4582" vertical-scroll-proportion="0.9447674" vertical-offset="224" max-vertical-offset="988">
+            <state line="23" column="42" selection-start="1745" selection-end="1745" vertical-scroll-proportion="0.0" vertical-offset="224" max-vertical-offset="988">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="8" selection-start="166" selection-end="166" vertical-scroll-proportion="0.33878157" vertical-offset="0" max-vertical-offset="673">
+              <folding>
+                <element signature="e#7#98#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -64,6 +74,7 @@
       <list>
         <option value="$PROJECT_DIR$/Feature 4.txt" />
         <option value="$PROJECT_DIR$/Hello.txt" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -189,8 +200,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Hello.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="504" selection-start="4582" selection-end="4582" vertical-scroll-proportion="0.9447674" vertical-offset="224" max-vertical-offset="988">
+        <state line="23" column="42" selection-start="1745" selection-end="1745" vertical-scroll-proportion="0.0" vertical-offset="224" max-vertical-offset="988">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="8" selection-start="166" selection-end="166" vertical-scroll-proportion="0.33878157" vertical-offset="0" max-vertical-offset="673">
+          <folding>
+            <element signature="e#7#98#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

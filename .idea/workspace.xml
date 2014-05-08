@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86da1610-fd04-4e16-9010-9d2b0fac2803" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
-    </list>
+    <list default="true" id="86da1610-fd04-4e16-9010-9d2b0fac2803" name="Default" comment="" />
     <ignored path="git-flow.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
